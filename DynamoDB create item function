@@ -1,0 +1,22 @@
+## Create:
+{
+    "operation": "create",
+    "tableName": "lambda-apigateway",
+    "payload": {
+        "Item": {
+            "id": "1",
+            "name": "Manish"
+        }
+    }
+}
+
+## Read
+{
+    "operation": "read",
+    "tableName": "lambda-apigateway",
+    "payload": {
+        "Key": {
+            "id": "1"
+        }
+    }
+}
