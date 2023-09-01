@@ -19,6 +19,8 @@ To create an execution role
 2. Choose Create role.
 
 ### Create Lambda Function
+![lambda-code](https://github.com/manishsinghkuswaha/ServerlessLab/assets/47105557/b86e84d5-42ac-4104-985f-5c82035bfc50)
+
 ### Create DynamoDB Table
 ### Create API
 ### Deploy the API
