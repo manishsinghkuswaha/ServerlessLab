@@ -10,7 +10,7 @@
     }
 }
 
-## Read
+## Read:
 {
     "operation": "read",
     "tableName": "lambda-apigateway",
